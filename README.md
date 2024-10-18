@@ -14,7 +14,7 @@
 ![](img/distributionYearMonth.png)
 
 #### Distribution by Year
-![](img/ditributionYear.png)
+![](img/distributionYear.png)
 
 #### Distribution by Season
 ![](distributionSeason.png)
