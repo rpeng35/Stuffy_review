@@ -17,9 +17,9 @@ Understanding customer review trends is crucial for businesses to improve custom
 - **Data Visualization:**
     - Line plots for trend analysis.
     - Bar charts for review distributions by month, year, and season. <br />
-    <img src="img/distributionYearMonth.png" width="50">
-    <img src="img/distributionYear.png" width="50">
-    <img src="img/distributionSeason.png" width="50">
+    <img src="img/distributionYearMonth.png" width="300">
+    <img src="img/distributionYear.png" width="300">
+    <img src="img/distributionSeason.png" width="300">
 - **Outlier Detection:** Identified spikes and dips to analyze external influences on review frequency.
 
 ### KPI in Place
